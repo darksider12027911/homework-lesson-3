@@ -1,0 +1,29 @@
+.contianer {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box {
+  height: 800px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.heading {
+  text-align: center;
+  background-color: aqua;
+  border: solid 2px red;
+  border-radius: 50px;
+  box-shadow: 
+  500px 0px green,
+  0px 40px yellow,
+  -500px 0px darkorchid,
+  0px -40px black,
+  500px 40px blue,
+  500px -40px saddlebrown,
+  -500px 40px teal,
+  -500px -40px orangered
+}
+
